@@ -27,8 +27,8 @@ inq.prompt([{
   return fs.readFile('./README.md', 'utf8')
     .then(content => {
       content = content
-      .replace(/<!-- project holder -->/, `<!-- project holder -->\n${project}`)
-      .replace(/<!-- badge holder -->/, `<!-- badge holder -->\n${gzipBadge}`)
+      .replace(/<!-- project holder -->/, `${project}\n<!-- project holder -->`)
+      .replace(/<!-- badge holder -->/, `${gzipBadge}\n<!-- badge holder -->`)
 
       return fs.writeFile('./README.md', content, 'utf8')
     })
