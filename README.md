@@ -13,6 +13,17 @@
 |[tinytime](https://github.com/aweary/tinytime)|Straightforward time formatter|![tinytime][tinytime-gzip]|
 |[loadjs](https://github.com/muicss/loadjs)|Async loader / dependency manager|![loadjs][loadjs-gzip]|
 |[slugo](https://github.com/egoist/slugo)|Slug utility|![slugo][slugo-gzip]|
+<!-- project holder -->
+
+## Contributing
+
+Add a new project:
+
+```bash
+# clone this repo
+npm install
+npm run add
+```
 
 ## License
 
@@ -29,3 +40,4 @@ To the extent possible under law, [EGOIST](http://github.com/egoist) has waived 
 [tinytime-gzip]: http://img.badgesize.io/https://unpkg.com/tinytime/dist/tinytime.min.js?compression=gzip&label=gzip&style=flat
 [loadjs-gzip]: http://img.badgesize.io/https://unpkg.com/loadjs/dist/loadjs.min.js?compression=gzip&label=gzip&style=flat
 [slugo-gzip]: http://img.badgesize.io/https://unpkg.com/slugo/dist/slugo.min.js?compression=gzip&label=gzip&style=flat
+<!-- badge holder -->
