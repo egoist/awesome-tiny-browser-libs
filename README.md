@@ -9,7 +9,6 @@
 |[snarkdown](https://github.com/developit/snarkdown)|Snarky markdown parser|![snarkdown][snarkdown-gzip]|
 |[stickybits](https://github.com/dollarshaveclub/stickybits)|`position: sticky` polyfills|![stickybits][stickybits-gzip]|
 |[zoom-image](https://github.com/egoist/zoom-image)|Medium's Image Zoom (no dependencies, IE 10+)|![zoom-image][zoom-image-gzip]|
-|[bytesize-icons](https://github.com/danklammer/bytesize-icons)|Style-controlled SVG iconset|![bytesize-icons][bytesize-icons-gzip]|
 |[tinytime](https://github.com/aweary/tinytime)|Straightforward time formatter|![tinytime][tinytime-gzip]|
 |[loadjs](https://github.com/muicss/loadjs)|Async loader / dependency manager|![loadjs][loadjs-gzip]|
 |[slugo](https://github.com/egoist/slugo)|Slug utility|![slugo][slugo-gzip]|
@@ -36,7 +35,6 @@ To the extent possible under law, [EGOIST](http://github.com/egoist) has waived 
 [snarkdown-gzip]: http://img.badgesize.io/https://unpkg.com/snarkdown/dist/snarkdown.js?compression=gzip&label=gzip&style=flat
 [stickybits-gzip]: http://img.badgesize.io/https://unpkg.com/stickybits/dist/stickybits.min.js?compression=gzip&label=gzip&style=flat
 [zoom-image-gzip]: http://img.badgesize.io/https://unpkg.com/zoom-image/js/zoom-image.min.js?compression=gzip&label=gzip&style=flat
-[bytesize-icons-gzip]: https://img.shields.io/badge/gzip-10%20kB-brightgreen.svg?style=flat
 [tinytime-gzip]: http://img.badgesize.io/https://unpkg.com/tinytime/dist/tinytime.min.js?compression=gzip&label=gzip&style=flat
 [loadjs-gzip]: http://img.badgesize.io/https://unpkg.com/loadjs/dist/loadjs.min.js?compression=gzip&label=gzip&style=flat
 [slugo-gzip]: http://img.badgesize.io/https://unpkg.com/slugo/dist/slugo.min.js?compression=gzip&label=gzip&style=flat
